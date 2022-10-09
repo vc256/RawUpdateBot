@@ -28,7 +28,7 @@ However, if you have any reasons and would like to run your own instance, you ca
 - edited_channel_post
 - my_chat_member
 - chat_member
-- chat_member
+- chat_join_request
 
 ## Credits
 
